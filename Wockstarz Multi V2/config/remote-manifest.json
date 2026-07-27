@@ -1,0 +1,18 @@
+{
+  "config_rev": "2",
+  "latest_version": "2.1.0",
+  "download_url": "https://soon.com",
+  "zip_url": "https://soon.com",
+  "announcement": {
+    "title_fr": "WOCK-MULTI v2.1.0 — MISE À JOUR !",
+    "title_en": "WOCK-MULTI v2.1.0 — UPDATE AVAILABLE!",
+    "body_fr": "Nouvelle mise à jour v2.1.0 disponible !\n\n◆ Catégorie WEBHOOK (19 outils)\n◆ Spam GIF · bad words · branding https://discord.gg/52BHRG5EmA\n◆ User Lookup Discord amélioré\n◆ Tout en console — plus besoin de config token\n\n▸ Menu HOME → Liens / MAJ pour sync\n▸ Ou retélécharge le ZIP sur GitHub\n\n⭐ Star le repo pour supporter le projet !",
+    "body_en": "New update v2.1.0 is live!\n\n◆ WEBHOOK category (19 tools)\n◆ GIF spam · bad words · https://discord.gg/52BHRG5EmA branding\n◆ Improved Discord User Lookup\n◆ Console-only tokens — no config file needed\n\n▸ HOME → Remote sync to update\n▸ Or re-download the ZIP on GitHub\n\n⭐ Star the repo to support the project!"
+  },
+  "links": {
+    "discord": "https://discord.gg/52BHRG5EmA",
+    "github": "https://soon.com",
+    "shop": "https://soon.com"
+  },
+  "changelog": "WOCK-MULTI v2.1.0\n- WEBHOOK category (19 tools) · GIF/bad-word spam · pub discord.gg/52BHRG5EmA\n- Discord User Lookup snowflake + optional bot token in console\n- Nuker webhook tools via console credentials\n- Removed config-token dependency for webhook generator"
+}
