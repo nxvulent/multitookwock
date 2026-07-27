@@ -1,0 +1,10 @@
+{
+  "name": "Wock Multitool",
+  "version": "2.6.0",
+  "author": "gih",
+  "github": "https://soon.com",
+  "discord": "https://discord.gg/vMrSdNXvZZ",
+  "theme": "modern",
+  "auto_open_discord": false,
+  "auto_update": false
+}

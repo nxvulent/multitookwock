@@ -1,0 +1,19 @@
+{
+  "config_rev": "0",
+  "latest_version": "2.0.0",
+  "download_url": "",
+  "zip_url": "",
+  "announcement": {
+    "title_fr": "WOCK-MULTI — Opérationnel",
+    "title_en": "WOCK-MULTI — Operational",
+    "body_fr": "L'outil est opérationnel. Les fonctions à distance ont été désactivées.",
+    "body_en": "The tool is operational. Remote functions have been disabled."
+  },
+  "links": {
+    "discord": "",
+    "github": "",
+    "shop": ""
+  },
+  "changelog": ""
+}
+
